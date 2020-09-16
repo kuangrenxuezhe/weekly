@@ -1,2 +1,2 @@
-# weekly
-record life by weekly
+# 人生无常，无常人生
+
