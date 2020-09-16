@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[后皇嘉树]]></title>
-        <description><![CDATA[记录工作中的点点滴滴]]></description>
+        <description><![CDATA[点点滴滴的生活]]></description>
         <link>http://gitbook.kuangrenxuezhe.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2020 07:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2020 08:59:08 GMT</lastBuildDate>
         <atom:link href="http://gitbook.kuangrenxuezhe.com/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Junsheng Zhang]]></author>
         <managingEditor><![CDATA[zhangjunsheng@autohome.com.cn]]></managingEditor>
