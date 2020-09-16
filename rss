@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[后皇嘉树]]></title>
+        <description><![CDATA[记录工作中的点点滴滴]]></description>
+        <link>http://gitbook.kuangrenxuezhe.com/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 16 Sep 2020 07:58:07 GMT</lastBuildDate>
+        <atom:link href="http://gitbook.kuangrenxuezhe.com/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Junsheng Zhang]]></author>
+        <managingEditor><![CDATA[zhangjunsheng@autohome.com.cn]]></managingEditor>
+        <webMaster><![CDATA[zhangjunsheng@autohome.com.cn]]></webMaster>
+        <category><![CDATA[search]]></category>
+        <category><![CDATA[recommend]]></category>
+        <item>
+            <title><![CDATA[人生无常，无常人生]]></title>
+            <link>http://gitbook.kuangrenxuezhe.com/</link>
+            <guid isPermaLink="true">http://gitbook.kuangrenxuezhe.com/</guid>
+            <dc:creator><![CDATA[Junsheng Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://gitbook.kuangrenxuezhe.com/part1/README.html</link>
+            <guid isPermaLink="true">http://gitbook.kuangrenxuezhe.com/part1/README.html</guid>
+            <dc:creator><![CDATA[Junsheng Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://gitbook.kuangrenxuezhe.com/part1/recommend.html</link>
+            <guid isPermaLink="true">http://gitbook.kuangrenxuezhe.com/part1/recommend.html</guid>
+            <dc:creator><![CDATA[Junsheng Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://gitbook.kuangrenxuezhe.com/part2/README.html</link>
+            <guid isPermaLink="true">http://gitbook.kuangrenxuezhe.com/part2/README.html</guid>
+            <dc:creator><![CDATA[Junsheng Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://gitbook.kuangrenxuezhe.com/part2/search.html</link>
+            <guid isPermaLink="true">http://gitbook.kuangrenxuezhe.com/part2/search.html</guid>
+            <dc:creator><![CDATA[Junsheng Zhang]]></dc:creator>
+        </item>
+    </channel>
+</rss>
